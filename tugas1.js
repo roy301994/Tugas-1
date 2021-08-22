@@ -123,7 +123,7 @@ button10.addEventListener('click',function(){
     const aBaru=document.createElement('a')
     const TextaBaru=document.createTextNode('Berikut Link Github saya ')
     aBaru.appendChild(TextaBaru)
-    aBaru.setAttribute('href','https://github.com/roynaldosihotang/javascript-challenge')
+    aBaru.setAttribute('href','https://github.com/roy301994/Tugas-1')
     li.replaceChild(aBaru,pRemove)
     
 
